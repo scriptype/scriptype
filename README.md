@@ -2,4 +2,4 @@
 
 ## Many thanks to my sponsors
 
-<img alt="Sefa Bulak (zachka)" title="Sefa Bulak (zachka)" src="https://avatars.githubusercontent.com/u/79358543?s=128&v=4" width="64">
+<a href="https://github.com/zackha"><img alt="Sefa Bulak (zachka)" title="Sefa Bulak (zachka)" src="https://avatars.githubusercontent.com/u/79358543?s=128&v=4" width="64"></a>
